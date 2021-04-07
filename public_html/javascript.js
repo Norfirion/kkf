@@ -22,5 +22,6 @@ function init(){
 function feladat5(){
     this.classList.add("kiemel");
 }
-
-
+function feladat6(){
+    this.classList.remove("kiemel");
+}
